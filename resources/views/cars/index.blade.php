@@ -13,7 +13,7 @@
                 <th scope="col">ID</th>
                 <th scope="col">Marca</th>
                 <th scope="col">Modello</th>
-                <th scope="col">Chilometri</th>
+                <th scope="col">km</th>
                 <th scope="col">Colore</th>
                 <th scope="col">Prezzo</th>
                 <td scope="col">Actions</td>
