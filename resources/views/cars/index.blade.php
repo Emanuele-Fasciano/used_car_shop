@@ -7,6 +7,8 @@
 @section('page_title', 'Lista auto disponibili')
 
 @section('content')
+
+    <button>ciao</button>
     <table class="table table-striped">
         <thead>
             <tr>
